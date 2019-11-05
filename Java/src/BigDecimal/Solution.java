@@ -1,10 +1,17 @@
+/**
+*
+* @CopyRights by Khalid.nouh
+* 
+*/
 package BigDecimal;
-
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
-
+/**
+*
+* @author Khalid.nouh
+*/
 public class Solution {
 	 public static void main(String[] args) {
 	        //Input
