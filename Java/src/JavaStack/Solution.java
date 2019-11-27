@@ -19,6 +19,7 @@ public class Solution {
 		Stack<Character> myStack = new Stack<Character>();
 		for (char ch : input.toCharArray()) {
 			if (ch == '(' || ch == '[' || ch == '{') {
+				
 				myStack.push(ch);
 			}
 			if (ch == ')' || ch == ']' || ch == '}') {
